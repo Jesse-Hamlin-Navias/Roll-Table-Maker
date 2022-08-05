@@ -34,12 +34,12 @@ Roll-Table-Maker is opperated by typing and entering commands into the terminal.
  
  ## Expert Instructions
  Roll Table Maker is a smart application. Here are some extra tips to try out once you've got down the basics.
+  ### Sub Tables
+  You can roll tables in tables! Thats what Quest Maker does! Anytime an entry has words in (), Roll Table Maker will search for a table with that name, roll on it, and replace the () with what was rolled. This process can go as many layers deep as you like, just be warned that no infinite loops are allowed.
   ### Entry Die Rolling
   If an entry has a die in it, in [quantity]d[size] format, it will roll that die and only print the number! If you want a table that generates the number of something, such as the number of merchants you meet on a road, instead of having a entry for each possible size, you can have a 1d1 sized table, the first and only entry is [quantity]d[size] merchants.
   ### Entry Adding
   If an entry has adding in it, in [number] + [number] format, it will add those numbers together! Roll Table Maker does not accept negative numbers or subtractions. Note that Roll Table Maker rolls the dice in etries first, then adds, allowing you to add rolled dice together.
-  ### Sub Tables
-  You can roll tables in tables! Thats what Quest Maker does! Anytime an entry has words in (), Roll Table Maker will search for a table with that name, roll on it, and replace the () with what was rolled. This process can go as many layers deep as you like, just be warned that no infinite loops are allowed.
   ### Deleting Tables and Direct manipulation
   Tables are stored as text files in the Roll-Table-Maker folder. There is no command to delete a table in Roll Table Maker for saftey reasons, but you can delete it manually by opening the folder, finding the text file with the name of the folder you want to delete, and deleting that file. You can also edit those text files directly, which might be faster in some cases.
  
