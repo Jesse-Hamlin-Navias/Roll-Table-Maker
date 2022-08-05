@@ -44,5 +44,5 @@ Roll-Table-Maker is opperated by typing and entering commands into the terminal.
   Tables are stored as text files in the Roll-Table-Maker folder. There is no command to delete a table in Roll Table Maker for saftey reasons, but you can delete it manually by opening the folder, finding the text file with the name of the folder you want to delete, and deleting that file. You can also edit those text files directly, which might be faster in some cases.
  
  known bugs:
-  help print prints out the help of help die
+  help print prints out the help of help die,
   help delete misspelling
