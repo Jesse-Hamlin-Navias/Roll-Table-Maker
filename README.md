@@ -35,7 +35,7 @@ Roll-Table-Maker is opperated by typing and entering commands into the terminal.
  ## Expert Instructions
  Roll Table Maker is a smart application. Here are some extra tips to try out once you've got down the basics.
   ### Sub Tables
-  You can roll tables in tables! Thats what Quest Maker does! Anytime an entry has words in (), Roll Table Maker will search for a table with that name, roll on it, and replace the () with what was rolled. This process can go as many layers deep as you like, just be warned that no infinite loops are allowed.
+  You can roll tables in tables! Thats what Quest Maker does! Anytime an entry has words in parenthases, Roll Table Maker interprets whats in the parenthases as a table. It will search for that table, roll on it, and replace the () with what was rolled. This process can go as many layers deep as you like, just be warned that no infinite loops are allowed.
   ### Entry Die Rolling
   If an entry has a die in it, in [quantity]d[size] format, it will roll that die and only print the number! If you want a table that generates the number of something, such as the number of merchants you meet on a road, instead of having a entry for each possible size, you can have a 1d1 sized table, the first and only entry is [quantity]d[size] merchants.
   ### Entry Adding
