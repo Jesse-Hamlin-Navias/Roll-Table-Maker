@@ -7,7 +7,7 @@ A command line application to make and roll nesting TTRPG roll tables. Roll tabl
 3) Compile all java files in Roll-Table-Maker. You never need to do steps 1-3 again.
 4) Run Table_Terminal.java from the terminal to open the application.
 5) Type help to see the commands. Type exit to quit the application.
-6) Quest makes is an example table you can roll on. Try typing roll Quest Maker
+6) Quest maker is an example table you can roll on. Try typing roll Quest Maker
 
 ## Documentation:
 Roll-Table-Maker is opperated by typing and entering commands into the terminal. All of those commands are listed below. A [] implies an argument should fill in. {} implies an optional argument.
