@@ -26,7 +26,7 @@ Roll-Table-Maker is opperated by typing and entering commands into the terminal.
   ### roll {table name}
   If no table is given, rolls on the current table and shows the result. If a table is given, rolls the dice for that table and shows the result.
   ### die [[quantity]d[size]]
-  Changes the die size of the current table. [quantity] is number if dice, [size] is how many faces those dice have. Entries that become out of bounds by reducing the die size will be deleted.
+  Changes the die size of the current table. [quantity] is number of dice, [size] is how many faces those dice have. Entries that become out of bounds by reducing the die size will be deleted.
   ### name [new table name]
   Changes the name of the current table to [new table name].
   ### exit
