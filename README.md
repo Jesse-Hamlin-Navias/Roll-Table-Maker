@@ -10,7 +10,7 @@ A command line application to make and roll nesting TTRPG roll tables. Roll tabl
 6) Quest maker is an example table you can roll on. Try typing roll Quest Maker
 
 ## Documentation:
-Roll-Table-Maker is opperated by typing and entering commands into the terminal. All of those commands are listed below. A [] implies an argument should fill in. {} implies an optional argument.
+Roll-Table-Maker is opperated by typing and entering commands into the terminal. All of those commands are listed below. A [] is an argument you must fill in. {} implies an optional argument.
   ### help {command}
   If no command is given, lists all commands. If a command is given, explains what the command does.
   ### create [table name]
